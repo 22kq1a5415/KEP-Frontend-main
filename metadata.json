@@ -1,0 +1,7 @@
+{
+  "name": "Keshava Elite Projects",
+  "description": "A premium STEM and Robotics education platform empowering future innovators through cutting-edge labs and professional training programs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
